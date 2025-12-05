@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import sympy as sp
+#import sympy as sp
 import plotly.graph_objects as go
 import plotly.express as px
 from sympy import symbols, diff, latex, solve, lambdify
@@ -302,3 +302,4 @@ elif page == "⚡ Optimization Solver":
 # Footer
 st.markdown("---")
 st.markdown("**Mathematical Function & Optimization WebApp** | Created with Streamlit and SymPy")
+
