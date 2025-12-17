@@ -218,7 +218,7 @@ texts = {
         'profit_formulation2': 'Profit P(x) = revenue - cost = x*(100-0.2x) - (1000+20x+0.1x²)',
         
         # Footer
-        'footer': 'Mathematical Function & Optimization WebApp | Built with Streamlit, SymPy, and Matplotlib | © 2024 Group: Ahmad Rizki Aryadi, Christina Malinda Derankian, Ari Muamar'
+        'footer': 'Mathematical Function & Optimization WebApp | Built with Streamlit, SymPy, and Matplotlib | © 2025 Group: Ahmad Rizki Aryadi, Christina Malinda Derankian, Ari Muamar'
     }
 }
 
@@ -1003,4 +1003,5 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
